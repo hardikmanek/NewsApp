@@ -8,4 +8,3 @@ This is full source code of News App , use NewsAPI and use libraries :
 - Diagonal Layout and Kenburns View (for Hotest Newspaper) 
 - Recycler and CardView (Display Item) - Swipe Refresh 
 
-FULL SOURCE CODE FROM TUTORIAL SERIES : https://www.youtube.com/watch?v=Hc5SGZduC10
